@@ -22,7 +22,8 @@
 
 # note:
 While the [program](https://github.com/AbhishekBaiju/Library-Management-TinkerWeek/main.py) is running dont open the [xls](https://github.com/AbhishekBaiju/Library-Management-TinkerWeek/data.xls) file since it will revoke write **funtion**
-Also not all fucntions are implemented due to busy schedule!
+
+### Also not all fucntions are implemented due to busy schedule!
 Sorry about that **😣**
 
 ## Keys:
